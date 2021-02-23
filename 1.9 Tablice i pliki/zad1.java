@@ -10,7 +10,7 @@ class Tablice1{
         
         String oceny [];
         for(int i = 0; i < 3; i++) {
-            double rand = Math.random(); 
+            int rand = Math.random(); 
             System.out.println("ocena: " + rand);
         }
 
