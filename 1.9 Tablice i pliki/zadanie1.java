@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 import java.io.*;
+
 class Zadanie{
     public static void main(String args[]){
         Random r = new Random();
