@@ -32,5 +32,6 @@ class TabliceDwuwymiarowa{
                 System.out.println(tab[i]);
             }    
         //commit: Przypomnienie jak robic tab 1wym.
+        
     }
 }
