@@ -50,4 +50,4 @@ class TabliceDwuwymiarowa{
         //commit: Przypomnienie jak robic tab 1wym.
         
     }
-}
+} 
