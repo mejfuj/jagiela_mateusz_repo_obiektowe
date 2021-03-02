@@ -5,12 +5,13 @@ class TabliceDwuwymiarowa{
 
     }
 
-    private static void tablica2x2(){
-        int[][] tab2x2 = new int[3][];
-        tab2x2[0] = new int[4];
-        tab2x2[1] = new int[3];
-        tab2x2[2] = new int[2];
-        tab2x2[3] = new int[1];
+     private static void tablica2x2(){
+        int[][] tab2x2 = new int[2][2];
+        tab2x2[0][0] = 1; 
+        tab2x2[0][1] = 2;
+        tab2x2[1][0] = 3;
+        tab2x2[1][1] = 4;
+        
         for(int i=0; i<tab2x2.length; i++){
             for(int j=0; j<tab[i].length; j++){
                 System.out.println(tab[i][j]);
