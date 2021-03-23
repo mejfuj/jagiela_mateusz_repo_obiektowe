@@ -1,16 +1,14 @@
-class ImieNaziwsko{
+class ImieNazwisko{
     private String imie = "";
     private String nazwisko = "";
-
-    public ImieNaziwsko(String imie, String nazwisko){
-        this.imie = imie;
+        
+    //KONSTRUKTOR
+    public ImieNazwisko(String imie, String nazwisko){
+        this.imie = imie; //this - odwoluje sie do atrybutow OBIEKTU
         this.nazwisko = nazwisko;
     }
-    public void imieNazwisko(){
-        return (imie+nazwisko);
+    
+    public String witaj(){
+        return ("Witaj "+imie+" "+nazwisko+" - imie wprowadzone w konstruktorze");
     }
-
-    //metoda wyswietlajaca powitanie:
-    //witaj imie nazwisko - imie i nazwisko wprowadzone w konstruktorze
-
 }
