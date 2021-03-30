@@ -4,12 +4,8 @@ class Logowanie{
 	
 	@Override
 	public String toString(){
-		return "Samochód:\n"
-		+"Marka: "+marka+"\n"
-		+"Model: "+model+"\n"
-		+"Rodzaj silnika: "+rodzaj_silnika+"\n"
-		+"Moc: "+moc+"\n"
-		+"Moment obrotowy: "+mo_obrotowy+"\n"
-		+"Pojemność: "+pojemnosc+"\n";
+		return "Logowanie:\n"
+		+"Login: "+login+"\n"
+		+"haslo: "+haslo+"\n";
 	}
 }
