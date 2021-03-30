@@ -1,6 +1,6 @@
 class Logowanie{
-	private String login = "akronim";
-	private String haslo = "123ASDlo9";
+	private String login = "WisniaBakajoko";
+	private String haslo = "NawijamOrazSmaze";
 	
 	@Override
 	public String toString(){

@@ -1,16 +1,16 @@
 class Kolo{
     private double pi = 3.1415;
-    private double radius = 0;
+    private double promien = 0;
 
     public double pole(){
-        return pi*Math.pow(radius, 2);
+        return pi*Math.pow(promien, 2);
     }
 
     public double obwod(){
-        return 2*pi*radius;
+        return 2*pi*promien;
     }
 
-    public void setRadius(double radius){
-        this.radius = radius;
+    public void pPromien(double promien){
+        this.promien = promien;
     }
 }
