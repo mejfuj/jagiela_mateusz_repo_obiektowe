@@ -1,15 +1,15 @@
 
 class MojeDane{
+	//Dane
+	public String imie = "Mateusz";
+    public String nazwisko = "Jagiela";
+    public String klasa = "2PTN";
 	
-	public String imie
-	
-	
-	public static void main(String[] args){
-
-	}
-	
-		
-	}
-	
+	//Konstruktor
+	public MojeDane(String imie, String nazwisko, String klasa){
+        this.imie = imie;
+        this.nazwisko = nazwisko;
+        this.klasa = klasa;
+    }
 	
 } 
