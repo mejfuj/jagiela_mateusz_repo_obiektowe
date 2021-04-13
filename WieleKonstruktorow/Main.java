@@ -14,6 +14,7 @@ class Main{
         Osoba os3 = new Osoba("Mateusz","Jagiela", 180, 60);
         System.out.println(os3);
 
-        Trojkat tr = new Trojkat("");
+        Trojkat tr = new Trojkat(15,20);
+        System.out.println(tr);
     }
 }
