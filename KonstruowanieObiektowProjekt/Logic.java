@@ -1,6 +1,7 @@
+import java.util.Scanner;
 public class Logic {
     Scanner sc = new Scanner(System.in);
-    char ululu= sc.next().charAt(0);
+    char ululu = sc.next().charAt(0);
     switch(ululu){
         case 'S':
             
@@ -9,5 +10,9 @@ public class Logic {
         case 'H':
         
             break;
+
+        default:
+
+        break;
     }
 }
