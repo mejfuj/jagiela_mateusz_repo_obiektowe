@@ -1,0 +1,30 @@
+Kto zaliczył najszybszy nokaut w historii UFC?;UFC;Masvidal;McGregor;Jones;Adesanya;Masvidal;średnie
+Kto był najmłodszym mistrzem w historii UFC?;UFC;McGregor;Jon Jones;Adesanya;JonJones;trudne
+Kiedy zadebiutował Conor McGregor w UFC?;UFC;2012;2011;2013;2014;2013;trudne
+Ile lat miał Jon Jones kiedy został mistrzem?;UFC;23;22;24;25;23;trudne
+Kogo pokonał McGregor w swoim debiucie dla UFC?;UFC;Diaz;Brimage;Velleri;Masvidal;Brimage;trudne
+Z kim walczył Błachowicz broniąc pasa po raz 1?;UFC;Adesanya;Teixeria;Reyes;Rakic;Adesanya;trudne
+Ile razy McGregor i Nate Diaz toczyli walkę?;UFC;1;2;3;4;2;średnie
+Kto wygrał pierwszy w historii sprint F1?;F1;Verstappen;Hamilton;Bottas;LeClerc;Verstappen;średnie
+Który z kierowców choć raz NIE startował z pole position (2021)?;F1;Vettel;Mazepin;Sainz;Alonso;Sainz;trudne
+Co popsuł Toto Wolff po kolizji Maxa i Lewisa w GP Arabii Saudyjskiej (2021)?;F1;Krzeslo;Sluchawki;Bolid;okulary;Sluchawki;łatwe
+Jak długo ściągano koło z bolidu Valtteriego Bottasa po GP Monako?;F1;22h;3h;43h;11h;43h;średnie
+Ilu kierowców zakończyło swój udział w GP Węgier po incydencie z pierwszego zakrętu wyścigu (2021)?;F1;1;2;3;5;5;trudne
+Przez ile okrążeń w wyścigach liderem był Max Verstappen(2021)?;F1;345;652;727;232;652;trudne
+Ilu kierowców stało na podium w sezonie 2021?;F1;13;14;15;16;13;trudne
+W jakim monachijskim klubie gra Robert Lewandowski?;PilkaNozna;Bayern;Borussia;Leipzig;Eintracht;Bayern;łatwe
+Zwycięzcą mistrzostw Euro 2016, które odbyły się we Francji, została?;PilkaNozna;Francja;Portugalia;Polska;Hiszpania;Portugalia;łatwe
+Najbliższe Mistrzostwa Euro 2024 odbędą się w?;PilkaNozna;Polska;Ukraina;Niemcy;Rosja;Niemcy;łatwe
+Offside to inaczej?;PilkaNozna;Spalony;Rozny;Aut;Karny;Spalony;łatwe
+Kapitanem polskiej reprezentacji na Euro 2021 jest?;PilkaNozna;Blaszczykowski;Lewandowski;Moder;Szczesny;Lewandowski;łatwe
+W 2019 roku Złotą piłkę otrzymał?;PilkaNozna;Lewandowski;Ronaldo;Messi;Modric;Ronaldo;średnie
+W Euro 2021 bierze udział ile druzyn?;PilkaNozna;21;23;24;25;24;średnie
+Polska będzie uczestniczyć w Euro po raz który?;PilkaNozna;3;4;5;6;4;średnie
+Czy w siatkówce jeden zawodnik może uderzyć piłkę dwa razy?;Siatkowka;Tak;Nie;Tyle ile chce;Nie wiem;Nie;łatwe
+W którym roku ostatnio polska reprezentacja siatkarska zdobyła MŚ?;Siatkowka;2012;2013;2014;2018;2014;łatwe
+Ile razy męska reprezentacja Polski zdobyła MŚ?;Siatkowka;2;3;4;5;3;łatwe
+Od którego roku piłka siatkowa jest dyscypliną olimpijską?;Siatkowka;1955;1964;1978;1961;1954;trudne
+Wymiary boiska do siatkowki bez wolnej strefy wynoszą?;Siatkowka;18x9m;12x5m;16x7m;19x8m;18x9m;łatwe
+Ile odbić pod rząd może wykonać zespół?;Siatkowka;3;4;5;6;3;łatwe
+Który kraj zdobył 6 razy MŚ mężczyzn w siatkówce?;Siatkowka;Wlochy;Polska;Francja;Rosja;Rosja;łatwe
+Koszulka którego gracza jest innego koloru niż reszty zespołu?;Siatkowka;Libero;Napastnik;Pomocnik;Obronca;Libero;średnie
